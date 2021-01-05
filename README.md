@@ -1,2 +1,2 @@
-# space-archaeology
+# Space-Archaeology
 Repository for bachelor thesis
